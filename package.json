@@ -1,0 +1,21 @@
+{
+  "name": "dcae_compressor",
+  "version": "1.0.0",
+  "description": "Immensive image compression with Denoising Convolutional Autoencoder Model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DCAE",
+    "Autoencoder",
+    "Image",
+    "Compression"
+  ],
+  "author": "ENEmy",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.7.0",
+    "@tensorflow/tfjs-node": "^3.7.0"
+  }
+}
